@@ -12,7 +12,7 @@ Version Control with Git and GitHub and creating a remote repository.
 
 ### Uploading 2 addtional files:
 
-Code Using the Module Python Tkinter
+Code Using the Python Module Tkinter
 
   based on [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=6630s)
 
