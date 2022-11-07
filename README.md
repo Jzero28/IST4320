@@ -5,7 +5,7 @@ Activity 7 - IST 4610
 
 Version Control with Git and GitHub and creating a remote repository.
 
-Hello_world.py was uploaded remotely.
+- Hello_world.py was uploaded remotely.
 
 
 # Additonal Practice:
